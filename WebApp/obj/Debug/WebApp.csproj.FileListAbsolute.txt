@@ -1,0 +1,148 @@
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\ApplicationInsights.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.Migrations.initTable.resources
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\ApplicationInsights.config
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\csc.exe
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\csc.exe.config
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\csc.rsp
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\csi.exe
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\csi.rsp
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\System.AppContext.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\vbc.exe
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\vbc.exe.config
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\vbc.rsp
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\VBCSCompiler.exe
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\WebApp.dll.config
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\WebApp.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\WebApp.pdb
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Antlr3.Runtime.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\EntityFramework.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\EntityFramework.SqlServer.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.Web.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Newtonsoft.Json.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Helpers.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Mvc.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Optimization.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Razor.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.WebPages.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.WebPages.Razor.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\WebGrease.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\EntityFramework.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\EntityFramework.SqlServer.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Helpers.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Mvc.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Optimization.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.Razor.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.WebPages.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\System.Web.WebPages.Razor.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Antlr3.Runtime.pdb
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Newtonsoft.Json.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.ApplicationInsights.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\bin\Microsoft.AI.Web.xml
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.Migrations.initTable.resources
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.dll
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.pdb
+E:\Bootcamp\Project\WebAppMVC\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
